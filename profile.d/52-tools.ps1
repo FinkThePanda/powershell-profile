@@ -2,12 +2,16 @@ function c {
   code .
 }
 
+function lg {
+  lazygit
+}
+
 function c-ps {
   code $HOME/Documents/PowerShell
 }
 
-function lg {
-  lazygit
+function lg-ps {
+  lazygit --p $HOME/Documents/PowerShell
 }
 
 function cl {
