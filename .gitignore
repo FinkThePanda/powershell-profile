@@ -1,0 +1,5 @@
+*.bak
+*.tmp
+profile.d/90-local.ps1*.bak
+*.tmp
+profile.d/90-local.ps1
