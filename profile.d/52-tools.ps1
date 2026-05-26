@@ -2,6 +2,10 @@ function c {
   code .
 }
 
+function c-ps {
+  code $HOME/Documents/PowerShell
+}
+
 function lg {
   lazygit
 }
